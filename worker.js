@@ -24,7 +24,7 @@ export default {
     const chatId = message.chat.id;
     const userText = message.text;
     const chatType = message.chat.type;
-    const botUsername = "Kaloobot"; // نام کاربری ربات
+    const botUsername = "kamitandorostbot"; // نام کاربری ربات
     const botName = "کامی تندرست"; // اسم ربات
 
 
